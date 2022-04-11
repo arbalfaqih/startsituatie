@@ -15,6 +15,7 @@ public class Rechthoek
 	public boolean equals( Rechthoek obj ) {
 		if ( this.kleur == r.kleur ) {
 			return true;
+			// ik heb iets aangepast
 		}
 		return
 			this.lengte == r.lengte || this.breedte == r.breedte
