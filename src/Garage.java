@@ -2,6 +2,7 @@
 //
 public class Garage
 {
+	//garage commenteer toegevoegd
 	private Vliegtuig vliegtuig;
 
 	public void zetInGarage( Vliegtuig v ) { vliegtuig = v; }
