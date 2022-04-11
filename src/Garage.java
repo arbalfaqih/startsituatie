@@ -1,5 +1,5 @@
 // code voor opgave 3
-//
+//even hier wat aanpassen
 public class Garage
 {
 	//garage commenteer toegevoegd
